@@ -1,0 +1,24 @@
+{
+  "name": "make-loader",
+  "version": "1.0.0",
+  "description": "node_modules/ dist/",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnMouse/make-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnMouse/make-loader/issues"
+  },
+  "homepage": "https://github.com/AnnMouse/make-loader#readme",
+  "devDependencies": {
+    "loader-utils": "^1.2.3",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
+  }
+}

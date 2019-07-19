@@ -5,3 +5,5 @@ documentation->ap->loaders
 - 主要用于部分：
  1. 侵入源码，查找异常监控，在source中可以获取源码信息
  2. 国际化网站中英文切换时，根据source获取信息
+
+ 以上信息来自:http://www.dell-lee.com/
